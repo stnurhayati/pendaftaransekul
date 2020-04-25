@@ -1,0 +1,10 @@
+Siti Nurhayati- RPL XI-1 - Wikrama 5
+
+maap kalau ada error2nya hehhehe :*
+
+untuk form adminnya di localhost/pendaftaransekul/admin
+-------------|
+Login admin  |
+nama=dino    |
+password=123 |
+-------------|
